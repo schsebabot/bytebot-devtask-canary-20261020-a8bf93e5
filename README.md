@@ -1,0 +1,2 @@
+# bytebot-devtask-canary-20261020-a8bf93e5
+Disposable ByteBot native lifecycle acceptance fixture; runtime source a8bf93e5b80a39fb9a0057d25d4b112faf679c99ade38bcdd57f70804d143693.
