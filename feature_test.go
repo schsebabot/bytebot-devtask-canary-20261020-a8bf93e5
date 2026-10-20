@@ -2,4 +2,4 @@ package fixture
 
 import "testing"
 
-func TestValue(t *testing.T) { if Value != "original" { t.Fatalf("Value = %q; want original", Value) } }
+func TestValue(t *testing.T) { if Value != "updated" { t.Fatalf("Value = %q; want updated", Value) } }
